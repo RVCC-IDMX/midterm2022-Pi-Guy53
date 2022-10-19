@@ -1,3 +1,23 @@
+header
+{
+
+}
+
+#portfolio
+{
+
+}
+
+#testimonials
+{
+
+}
+
+footer
+{
+
+}
+
 .redacted
 {
     color: black;
@@ -5,13 +25,8 @@
     font-size: 12px;
 }
 
-a
+#emphisis
 {
     font-style: italic;
     font-weight: 600;
-}
-
-.testimonials
-{
-    
 }
