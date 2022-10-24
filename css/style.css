@@ -1,6 +1,28 @@
+#socialimg
+{
+    float: left;
+}
+
 header
 {
-    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#intromsg
+{
+    clear: both;
+}
+
+ol li a
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0dd;
+    font-style: italic;
 }
 
 #portfolio
@@ -10,22 +32,33 @@ header
 
 #testimonials
 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
+#testimonials p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    clear: both;
 }
 
 footer
 {
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .redacted
 {
     color: black;
     background-color: black;
-    font-size: 12px;
+    font-size: 8pt;
 }
 
-#emphisis
+.star
+{
+    float: left;
+}
+
+.emphisis
 {
     font-style: italic;
     font-weight: 600;
